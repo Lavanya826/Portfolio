@@ -3,7 +3,7 @@
 > A personal portfolio website built using **Vibe Coding** — an AI-assisted creative workflow powered by **Claude AI**.
 
 ## 🔗 Live Site
-👉 [https://lavanya826.github.io](https://lavanya826.github.io)
+👉 [https://lavanya826.github.io](https://lavanya826.github.io/Portfolio/)
 
 ## 👩‍💻 About Me
 Hi! I'm **Lavanya Warang**, an Artificial Intelligence & Machine Learning student at Zeal College of Engineering, Pune (2023–2027). This portfolio showcases my skills, projects, experience, and certifications.
